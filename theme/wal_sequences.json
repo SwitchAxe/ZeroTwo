@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/switchaxe/.config/leftwm/themes/pinkhead/theme/background.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fdfcfc",
+        "foreground": "#5D4E56",
+        "cursor": "#5D4E56"
+    },
+    "colors": {
+        "color0": "#fdfcfc",
+        "color1": "#9CA0A3",
+        "color2": "#D99C9E",
+        "color3": "#CBB0AD",
+        "color4": "#BDC3BD",
+        "color5": "#A6CDCE",
+        "color6": "#3B3638",
+        "color7": "#E7BDB3",
+        "color8": "#91908d",
+        "color9": "#9CA0A3",
+        "color10": "#D99C9E",
+        "color11": "#CBB0AD",
+        "color12": "#BDC3BD",
+        "color13": "#A6CDCE",
+        "color14": "#3B3638",
+        "color15": "#E7BDB3"
+    }
+}
